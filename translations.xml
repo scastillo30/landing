@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <translation id="title">
+        <english>R-evolution of purchasing/buying</english>
+        <spanish>R-evolución de las compras</spanish>
+    </translation>
+    <translation id="subtitle">
+        <english>Enter your email below to be the first to try it out:</english>
+        <spanish>Ingrese su correo electrónico para ser el primero en probarlo:</spanish>
+    </translation>
+    <translation id="submit">
+        <english>Signup</english>
+        <spanish>Regístrate</spanish>
+    </translation>
+    <translation id="email">
+        <english>email@address.com</english>
+        <spanish>correo@url.com</spanish>
+    </translation>
+    <translation id="name">
+        <english>name</english>
+        <spanish>nombre</spanish>
+    </translation>
+    <translation id="lastname">
+        <english>last name</english>
+        <spanish>apellidos</spanish>
+    </translation>
+    <translation id="errorname">
+      <english>1</english>
+      <spanish>2</spanish>
+    </translation>
+    <translation id="errorlastname">
+      <english></english>
+      <spanish></spanish>
+    </translation>
+    <translation id="erroremail">
+      <english></english>
+      <spanish></spanish>
+    </translation>
+    <translation id="follow">
+      <english>Follow Us</english>
+      <spanish>Siguenos</spanish>
+    </translation>
+</translations>
